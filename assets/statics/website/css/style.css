@@ -1,0 +1,10 @@
+a.artist_link:link {text-decoration:none; color: var(--bs-card-color);}
+a.artist_link:visited {text-decoration:none; color: var(--bs-card-color);}
+a.artist_link:hover {text-decoration:none; color: var(--bs-card-color);}
+a.artist_link:active {text-decoration:none; color: var(--bs-card-color);}
+
+a.b_link:link {text-decoration:none; color: var(--bs-card-color);}
+a.b_link:visited {text-decoration:none; color: var(--bs-card-color);}
+a.b_link:hover {text-decoration:none; color: var(--bs-card-color);}
+a.b_link:active {text-decoration:none; color: var(--bs-card-color);}
+
